@@ -1,29 +1,33 @@
 # Header
-navname: Bentham's Blog
+navname: About Ayaka 
 
 # navigatior items
 nav:
-  Posts: /archives
-  Categories: /category
-  Tags: /tag
-  About: /about
+  Blog: /blog
+  Categories: /blog/category
+  Tags: /blog/tag
 
 # favicon
-favicon: /favicon.ico
+favicon: /favicon.png
 
 # Profile
-nickname: Jeremy Bentham
+nickname: 櫻川絢夏
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
-avatar: /image/avatar.jpeg
+description: |
+  櫻川家五小姐，大小姐的小跟屁蟲。
+  相對大小姐來説是矮灌木，但意外的能互換衣服。經常蹭衣服穿，於是從帥氣變成了可愛 (？
+  養貓 + 非常非常怕狗。
+  粵語 OK。
+  絢字有兩樣讀音，你知道麽？
+avatar: /image/avatar.png
 
 # main menu navigation
 ## links key words should not be changed.
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
+  Blog: /blog
   # Category:
   # Tags: 
   # Link:
@@ -33,26 +37,26 @@ links:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
+  # ZhiHu: https://www.zhihu.com/people/sirice
   # LinkedIn:
   # FaceBook:
-  # Twitter:
+  Twitter: https://www.twitter.com/bakaculebra
   # Skype:
   # CodeSandBox:
   # CodePen:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  # Instagram:
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Siricee
+  # Github: https://github.com/Siricee
 
 # how links show: you have 2 choice--text or icon.
-links_text_enable: false
+links_text_enable: true
 links_icon_enable: true
 
 # Post page
